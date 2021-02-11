@@ -1,0 +1,7 @@
+{
+    "name": "jivosite/test",
+    "description": "test rep",
+    "require": {
+        "php": ">=7.4"
+    }
+}
